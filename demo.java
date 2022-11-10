@@ -1,6 +1,6 @@
-class demo(){
+class demo{
 
-psvm(){
-sop("git demo1"):
+public static void main(){
+system.out.print("git demo1"):
 }
 }
